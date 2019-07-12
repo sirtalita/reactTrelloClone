@@ -1,2 +1,0 @@
-# ReactTrelloClone
-Trello Clone
